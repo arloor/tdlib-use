@@ -1,3 +1,1 @@
-**鉴于某人的言论，删除本仓库代码**
-
-**不要再试图使用这个库了**
+本仓库已弃用，新仓库见[https://github.com/arloor/telegram-client](https://github.com/arloor/telegram-client)
